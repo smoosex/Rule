@@ -1,0 +1,9 @@
+# 规则名称: YunyiSec_Internal
+# 规则统计: 4
+
+HOST-SUFFIX,yunyisec.com
+HOST-SUFFIX,security.com
+
+HOST-KEYWORD,yunyisec
+
+IP-CIDR,192.168.0.0/16
