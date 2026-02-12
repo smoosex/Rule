@@ -1,0 +1,9 @@
+# 规则名称: Google
+# 规则统计: 5
+
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,antigravity
+DOMAIN-KEYWORD,google
