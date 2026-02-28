@@ -1,6 +1,5 @@
-# 规则名称: Google
-# 规则统计: 5
-
+# NAME: Google
+# TOTAL: 6
 HOST-SUFFIX,antigravity-unleash.goog
 HOST-SUFFIX,gstatic.com
 HOST-KEYWORD,bard
