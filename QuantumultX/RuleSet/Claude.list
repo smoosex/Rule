@@ -1,8 +1,8 @@
 # NAME: Claude
 # TOTAL: 6
-HOST,cdn.usefathom.com
-HOST-SUFFIX,anthropic.com
-HOST-SUFFIX,claude.ai
-HOST-SUFFIX,honeycomb.io
-HOST-KEYWORD,claude
-HOST-KEYWORD,anthropic
+HOST,cdn.usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,honeycomb.io,Claude
+HOST-KEYWORD,claude,Claude
+HOST-KEYWORD,anthropic,Claude

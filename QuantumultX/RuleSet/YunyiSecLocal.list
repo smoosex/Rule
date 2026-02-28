@@ -1,6 +1,6 @@
 # NAME: YunyiSec_Internal
 # TOTAL: 4
-HOST-SUFFIX,yunyisec.com
-HOST-SUFFIX,security.com
-HOST-KEYWORD,yunyisec
-IP-CIDR,192.168.0.0/16
+HOST-SUFFIX,yunyisec.com,YunyiSec_Internal
+HOST-SUFFIX,security.com,YunyiSec_Internal
+HOST-KEYWORD,yunyisec,YunyiSec_Internal
+IP-CIDR,192.168.0.0/16,YunyiSec_Internal

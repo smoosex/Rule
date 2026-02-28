@@ -1,8 +1,8 @@
 # NAME: Google
 # TOTAL: 6
-HOST-SUFFIX,antigravity-unleash.goog
-HOST-SUFFIX,gstatic.com
-HOST-KEYWORD,bard
-HOST-KEYWORD,gemini
-HOST-KEYWORD,antigravity
-HOST-KEYWORD,google
+HOST-SUFFIX,antigravity-unleash.goog,Google
+HOST-SUFFIX,gstatic.com,Google
+HOST-KEYWORD,bard,Google
+HOST-KEYWORD,gemini,Google
+HOST-KEYWORD,antigravity,Google
+HOST-KEYWORD,google,Google
